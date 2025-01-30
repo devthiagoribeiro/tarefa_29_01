@@ -36,8 +36,7 @@ int64_t turn_off_callback(alarm_id_t id, void *user_data){
             currentState = 0;
             break;
     }
-    
-    return 0;  // Retorna 0 para indicar que o alarme não deve ser repetido
+    return 0;  
 }
 
 int main()
