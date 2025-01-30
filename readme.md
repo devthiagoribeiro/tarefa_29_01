@@ -19,7 +19,7 @@ Nesta atividade, foi implementado um semáforo utilizando um temporizador perió
 4. O ciclo se repete indefinidamente.
 
 ### Código
-O código principal está no arquivo `./tarefa1_29_01/tarefa1_29_01.c`. A função de callback `repeating_timer_callback()` é responsável por alternar os estados dos LEDs.
+O código principal está no arquivo `.\tarefa1_29_01\tarefa1_29_01.c`. A função de callback `repeating_timer_callback()` é responsável por alternar os estados dos LEDs.
 
 ### Como Executar
 1. Abra o simulador Wokwi.
@@ -50,7 +50,7 @@ Nesta atividade, foi implementado um sistema de temporização para o acionament
 5. O botão só pode ser pressionado novamente após o término da rotina.
 
 ### Código
-O código principal está no arquivo `./tarefa2_29_01/tarefa2_29_01.c`. A função de callback `turn_off_callback()` é responsável por alternar os estados dos LEDs.
+O código principal está no arquivo `.\tarefa2_29_01\tarefa2_29_01.c`. A função de callback `turn_off_callback()` é responsável por alternar os estados dos LEDs.
 
 ### Como Executar
 1. Abra o simulador Wokwi.
