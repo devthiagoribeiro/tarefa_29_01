@@ -1,4 +1,4 @@
-# TAREFA - AS_U4C5O1234E_29_01_2025
+# TAREFA - Clock e Temporizadores
 
 Este repositório contém a implementação de duas atividades relacionadas ao uso de temporizadores e LEDs com o microcontrolador Raspberry Pi Pico W, utilizando o Pico SDK e o simulador Wokwi.
 
